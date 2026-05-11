@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey, I'm Harsha 👋
-**Full-stack engineer. I build products from scratch and take them to production.**  
+**Full-stack engineer. I enjoy building products from idea to production.**  
 *Hyderabad, India · Remote-friendly*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshacodez)
@@ -15,31 +15,29 @@
 
 ### What I do
 
-I own the entire product — not just a layer of it.  
-Frontend, backend, infra, on-call, architecture decisions, and the refactor six months later.  
-I've taken systems from a blank repo to **50k+ concurrent users**, solo.
+I like taking ownership of products end-to-end — from architecture and frontend to backend, infrastructure, and long-term maintenance. Over the years I've helped build and scale several systems, sometimes as the primary engineer, handling everything from initial setup to production.
 
 ---
 
-### A few things I've shipped
+### A few things I've worked on
 
-| Project | What it is | Numbers that matter |
+| Project | What it is | Highlights |
 |---|---|---|
-| **SkillSynx** | Interactive coding platform | 50k+ concurrent users · <80ms load · 6mo zero downtime |
-| **Secure Online Judge** | Sandboxed code execution engine | <1s results · 5+ languages · <0.2% false verdicts |
-| **Docquip** | PDF editor + infinite canvas | 60fps at 10k+ elements · tamper-proof signing |
-| **BrokenGPT** | Agentic conversational AI | ~30% fewer hallucinations · stable persona at 100+ turns |
+| **SkillSynx** | Interactive coding platform | Scaled to 50k+ concurrent users with <80ms load times and strong uptime |
+| **Secure Online Judge** | Sandboxed code execution engine | Sub-second results across 5+ languages with high accuracy |
+| **Docquip** | PDF editor + infinite canvas | Smooth 60fps performance even with 10k+ elements |
+| **BrokenGPT** | Agentic conversational AI | Focused on reducing hallucinations and maintaining consistency |
 
 ---
 
-### Stack I use in production
+### Technologies I work with
 
 **Languages** → Go · TypeScript · Python · SQL  
 **Frontend** → React 19 · Next.js · Tailwind CSS · Zustand  
-**Backend** → Fiber · Flask · GraphQL · gRPC · Microservices  
+**Backend** → Fiber · Flask · GraphQL · gRPC  
 **Infra** → AWS · Docker · Kubernetes · GitHub Actions  
 **Data** → PostgreSQL · Redis · MongoDB · Supabase  
-**AI / LLM** → AWS Bedrock · RAG · Context/Memory Systems  
+**AI / LLM** → AWS Bedrock · RAG systems  
 
 ---
 
@@ -56,14 +54,14 @@ I've taken systems from a blank repo to **50k+ concurrent users**, solo.
 
 ### Currently
 
-- Building **SkillSynx** — shipping new features, keeping it at <1% error rate  
-- Open to **founding-engineer roles** and **freelance contracts** where I can own outcomes  
-- Not interested in "implement this ticket" work — I work best with real product problems  
+- Working on **SkillSynx** — building new features and keeping things stable  
+- Open to **founding engineer roles** and interesting **freelance contracts** where I can take real ownership  
+- Most interested in challenging product problems rather than purely task-based work  
 
 ---
 
 <div align="center">
 
-**If you're building something hard — [let's talk](mailto:harsha@heyharsha.dev)**
+**If you're building something interesting — I'd love to chat.** [harsha@heyharsha.dev](mailto:harsha@heyharsha.dev)
 
 </div>
